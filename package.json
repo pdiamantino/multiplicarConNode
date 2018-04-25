@@ -1,0 +1,15 @@
+{
+  "name": "03",
+  "version": "1.0.0",
+  "description": "aplicacion de terminal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Plinio Diamantino",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "yargs": "^11.0.0"
+  }
+}
